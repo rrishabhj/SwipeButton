@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <declare-styleable name="SwipeButton">
+    <attr name="buttonPressText" format="string" />
+    <attr name="gradientColor1" format="integer" />
+    <attr name="gradientColor2" format="integer"/>
+    <attr name="gradientColorWidth" format="integer"/>
+    <attr name="gradientColor3" format="integer"/>
+    <attr name="postConfirmationColor" format="integer"/>
+
+    <attr name="actionConfirmText" format="string"/>
+    <attr name="actionConfirmDistanceFraction" format="float"/>
+
+  </declare-styleable>
+
+</resources>
