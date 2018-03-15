@@ -1,7 +1,7 @@
 # SwipeButton
 A very simple Android Swipe Button
 
-![SwipeButton](https://www.dropbox.com/s/fs93sbxmft94f7u/ezgif.com-video-to-gif.gif?dl=0)
+![SwipeButton](https://github.com/rrishabhj/SwipeButton/blob/master/ezgif.com-video-to-gif.gif)
 
 ## How to use
 
