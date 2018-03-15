@@ -5,12 +5,13 @@ import android.graphics.LinearGradient;
 import android.graphics.Shader;
 import android.graphics.drawable.ShapeDrawable;
 import android.graphics.drawable.shapes.RectShape;
+import android.support.v7.widget.AppCompatButton;
 import android.util.AttributeSet;
 import android.util.Log;
 import android.view.MotionEvent;
 import android.widget.Button;
 
-public class SwipeButton extends Button {
+public class SwipeButton extends AppCompatButton {
 
     private float x1;
     //x coordinate of where user first touches the button
